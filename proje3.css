@@ -1,0 +1,62 @@
+.ust{
+    height: 40px;
+    background-color: #1E88E5;
+}
+.ust_buton{
+    text-align: right;
+    font-family: "Comic Sans MS";
+    padding: 0px!important;
+    line-height: 40px;
+}
+.logo{
+    height: 160px;
+    background-color: paleturquoise;
+}
+.logo_orta{
+    background-color: paleturquoise;
+}
+.baslik{
+    font-size: 20pt;
+    color: black;
+    font-family: "Comic Sans MS";
+}
+.menuler{
+    height: 40px;
+    background-color: paleturquoise;
+}
+.menuler_orta{
+    background-color: paleturquoise;
+    padding: 0px 0px 0px 8px!important;
+    line-height: 40px;
+}
+.resimler{
+    height: 300px;
+    background-color: paleturquoise;
+}
+.resimler_orta{
+    background-color:#81D4FA;
+    padding: 0px!important;
+}
+.orta{
+    height: 400px;
+    background-color: paleturquoise;
+}
+.orta_orta{
+    background-color: #81D4FA;
+}
+.alt{
+    height: 100px;
+    background-color: paleturquoise;
+}
+/*Jsor resim geçişleri için */
+.jssora051 {display:block;position:absolute;cursor:pointer;}
+.jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+.jssora051:hover {opacity:.8;}
+.jssora051.jssora051dn {opacity:.5;}
+.jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+/*Jsor resim geçişleri için */
+.asd{
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    padding: 0px!important;
+}
